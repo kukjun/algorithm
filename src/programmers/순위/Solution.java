@@ -1,7 +1,4 @@
-package programmers;
-
-public class 순위 {
-}
+package programmers.순위;
 
 class Solution {
     public int solution(int n, int[][] results) {
